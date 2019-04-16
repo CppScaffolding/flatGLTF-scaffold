@@ -1,0 +1,4 @@
+## .gitignore file for flatGLTF-scaffold
+
+## ignore folder fetched through gclient
+flatGLTF
